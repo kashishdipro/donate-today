@@ -1,0 +1,38 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+.banner h1{
+    font-size: 50px;
+    margin-top: 270px;
+    color: white;
+}
+.banner p{
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 30px;
+    color: white;
+}
+.flexiable{
+    display: flex;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.8;
+    text-align: center;
+}
+.donate-btn{
+    text-decoration: none;
+    background-image: linear-gradient(crimson, orangered);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.banner{
+    background-image: url(./images/donation.jpg);
+	height: 100vh;
+	width: 100%;
+    background-size: cover;
+}
