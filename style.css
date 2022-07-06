@@ -82,3 +82,39 @@ input{
     margin-top: 40px;
     margin-bottom: 30px;
 }
+.container-donate{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    text-align: center;
+} 
+.container-plan{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 0 20px;
+} 
+.donate-plan-container{
+    margin: 10px;
+    border-radius: 5px;
+}
+#donate-plan-food{
+    width: 300px;
+    height: 250px;
+    padding: 30px;
+    background-color: #d8eaec;
+}
+#donate-plan-shelter{
+    width: 300px;
+    height: 250px;
+    padding: 30px;
+    background-color: #f1dede;
+}
+#donate-plan-education{
+    width: 300px;
+    height: 250px;
+    padding: 30px;
+    background-color: #fff4d6;
+}
