@@ -118,3 +118,19 @@ input{
     padding: 30px;
     background-color: #fff4d6;
 }
+.donation{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.container-donation{
+    width: 493px;
+    margin-right: 50px;
+}
+.container-donation-image img{
+    width: 456px;
+    height: 477px;
+}
+
