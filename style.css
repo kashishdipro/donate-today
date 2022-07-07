@@ -171,9 +171,13 @@ input{
     color: white;
     background: #ff5959;
 }
-.container-subscriber{
+.subscribe{
     width: 100%;
     height: 100%;
+}
+.container-subscriber{
+    margin-top: 100px;
+    justify-content: center;
 }
 .subscriber-container{
     margin: 10px;
@@ -181,6 +185,10 @@ input{
 .subscriber-container img{
     width: 456px;
     height: 477px;
+    border-radius: 10px;
+}
+.subscriber-container h1{
+    color: #707070;
 }
 
 
