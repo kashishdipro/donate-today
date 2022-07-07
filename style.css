@@ -167,6 +167,7 @@ input{
     background: #aa9f9f;
 }
 .form button{
+    border: none;
     padding: 12px;
     color: white;
     background: #ff5959;
